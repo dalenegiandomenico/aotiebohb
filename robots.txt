@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eiphuithah.carloswong.co/sitemap.xml
